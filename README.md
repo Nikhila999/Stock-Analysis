@@ -39,7 +39,7 @@ Below are the execution times for refactored script:
       Advantages:
       The advantages of refactoring code are,
       1. Maintainability: After refactoring, the code is easier to understand, read, less complex and easier to maintain.
-      2. Extensible: Refactoring makes it easy to put the new code to add latest functionality, also helps in flexibility of code.
+      2. Extensible: Refactoring makes it easy to put the new code in, to add latest functionality. Also helps in flexibility of code.
       3. Performance: Refactoring often improves the performance of the code by reducing technical debt.
       4. Fixing Bugs: Badly written code raises many bugs, refactoring the code helps with fixing bugs as the code is easy to understand.
 
