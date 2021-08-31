@@ -53,5 +53,5 @@ Below are the execution times for refactored script:
     
    The main difference between the original code and refactored code is that, in refactored code we are using arrays to capture the output values and use them in loop instead of using all the ticker values. 
    - Here, advantages of refactoring the code is the improved performance and simpler code. 
-   - As it is a simple code, we are not seeing any chanllenges to refactoring code. But if the code is enormous and involves multiple systems then we must spend a lot of time to unit test and make sure there the functionality is not affected.
+   - As it is a simple code, we are not seeing any chanllenges to refactoring code. But if the code is enormous and involves multiple systems then would have spend a lot of time in unit testing and make sure the functionality is not affected.
 
